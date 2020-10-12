@@ -1,9 +1,6 @@
 body {
   font: 14px "Century Gothic", Futura, sans-serif;
   margin: 20px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 ol,
@@ -51,4 +48,9 @@ ul {
 
 .game-info {
   margin-left: 20px;
+}
+
+.highlight {
+  color: red;
+  background-color: yellow;
 }
